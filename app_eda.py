@@ -62,6 +62,7 @@ class Home:
                   - `humidity`, `windspeed`: 습도 및 풍속  
                   - `casual`, `registered`, `count`: 비등록·등록·전체 대여 횟수  
                 """)
+        
 
 # ---------------------
 # 로그인 페이지 클래스
